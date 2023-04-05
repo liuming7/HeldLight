@@ -1,7 +1,6 @@
 # HeldLight
 
-This plugin can automaticlly sort your backpack or chests in gameplay.
-
+This plugin can automaticlly add light on players' position.
 This plugin is suitable with Minecraft BDS v1.19.41 .
 
 ## Usage
